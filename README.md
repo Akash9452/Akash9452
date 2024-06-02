@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KingshSharma (Akash Sharma).
+- 👋 Hi, I’m @Akash9452 (Akash Sharma).
 - 👀 I’m interested in AI, ML, DSA(Java).
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on Ml projects.
